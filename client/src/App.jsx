@@ -1,7 +1,12 @@
 import "./App.css";
+import ShowTripsPage from "./components/showTripsPage";
 
 function App() {
-  return <div className="App">{/* Start coding here */}</div>;
+  return (
+    <>
+      <ShowTripsPage />
+    </>
+  );
 }
 
 export default App;
