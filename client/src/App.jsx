@@ -1,5 +1,5 @@
 import "./App.css";
-import ShowTripsPage from "./components/showTripsPage";
+import ShowTripsPage from "./components/ShowTripsPage";
 
 function App() {
   return (
